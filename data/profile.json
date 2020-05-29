@@ -1,0 +1,293 @@
+{
+  "contact": {
+    "phone": "+1 (647)906-4646",
+    "email": "jayshidh@gmail.com",
+    "website": "",
+    "location": "Toronto, Canada"
+  },
+  "skills": [
+    {
+      "title": "General",
+      "type": "percent",
+      "subskills": [
+        {
+          "name": "Business Analysis",
+          "percent": 89
+        },
+        {
+          "name": "Data Analytics",
+          "percent": 87
+        },
+        {
+          "name": "BI",
+          "percent": 86
+        },
+        {
+          "name": "ETL",
+          "percent": 93
+        },
+        {
+          "name": "Requirement Gathering",
+          "percent": 90
+        },
+        {
+          "name": "Project Management",
+          "percent": 92
+        },
+        {
+          "name": "Data Science",
+          "percent": 78
+        },
+        {
+          "name": "Artificial Intelligence",
+          "percent": 70
+        }
+      ]
+    },
+    {
+      "title": "Languages",
+      "type": "percent",
+      "subskills": [
+        {
+          "name": "SQL",
+          "percent": 89
+        },
+        {
+          "name": "DB2",
+          "percent": 74
+        },
+        {
+          "name": "RDBMS",
+          "percent": 85
+        },
+        {
+          "name": "Python",
+          "percent": 85
+        },
+        {
+          "name": "Javascript",
+          "percent": 80
+        },
+        {
+          "name": "HTML",
+          "percent": 85
+        }
+      ]
+    },
+    {
+      "title": "Big Data Ecosystem",
+      "type": "tag",
+      "subskills": [
+        {
+          "name": "HDFS"
+        },
+        {
+          "name": "Hive"
+        },
+        {
+          "name": "Pig"
+        },
+        {
+          "name": "Sqoop"
+        },
+        {
+          "name": "YARN"
+        },
+        {
+          "name": "Map Reduce"
+        }
+      ]
+    },
+    {
+      "title": "Methodologies",
+      "type": "tag",
+      "subskills": [
+        {
+          "name": "Agile"
+        },
+        {
+          "name": "Waterfall"
+        },
+        {
+          "name": "Iterative"
+        }
+      ]
+    },
+    {
+      "title": "Frameworks",
+      "type": "tag",
+      "subskills": [
+        {
+          "name": "React"
+        },
+        {
+          "name": "React Native"
+        },
+        {
+          "name": "Node"
+        },
+        {
+          "name": "Gatsby"
+        },
+        {
+          "name": "Django"
+        }
+      ]
+    },
+    {
+      "title": "Reporting Tools",
+      "type": "tag",
+      "subskills": [
+        {
+          "name": "Power BI"
+        },
+        {
+          "name": "Tableau"
+        },
+        {
+          "name": "SSRS"
+        }
+      ]
+    },
+    {
+      "title": "Databases",
+      "type": "tag",
+      "subskills": [
+        {
+          "name": "SQL"
+        },
+        {
+          "name": "Mongodb"
+        },
+        {
+          "name": "Postgresql"
+        }
+      ]
+    }
+  ],
+  "summary": "I am an ambitious IT consultant, Business System Analyst and a Certified Data Science Professional. I help corporations find business solutions and I have experience working in Healthcare and Banking industry. I am passionate about how technology can open new possibilities endlessly and keep inspiring the world. My goal in life is continuous learning and to keep finding those 'ahaan moments' along the way.",
+  "education": [
+    {
+      "institution": "Gujarat Technological University, India",
+      "degree": "Electronics & Communication Engineering",
+      "start": "2010",
+      "end": "2014"
+    }
+  ],
+  "certifications": [
+    {
+      "organization": "IBM",
+      "certificate": "Data Science Professional",
+      "start": "2019",
+      "end": ""
+    }
+  ],
+  "experience": [
+    {
+      "role": "Data/ Business Systems Analyst",
+      "company": "TD Bank",
+      "description": [
+        "TD’s Data Foundation (ETL) project utilizes TD big-data platform for data ingestion, integration, and reporting across multiple domains (Personal Banking, Business Banking, Phone Channel).",
+        "Validated Hadoop data lake (Akora System) metadata details using technical documents and sampled data through hive queries.",
+        "Reviewed data profiling reports and integrated them into line of business level documents.",
+        "Participated in the elicitation, creation, and validation of business requirements, business process modelling and test plans to perform user/business acceptance testing (UAT/BAT).",
+        "Created and tracked issues on JIRA.",
+        "Used Confluence to obtain subject matter expertise or detailed knowledge on processes.",
+        "Researched existing business glossary definitions and standardized them., Defined data quality standard for data from various lines of businesses based on metadata and data profiling reports.",
+        "Applied company’s data security classification rules to identify and score missing or inconsistent metadata prior to being ingested into data governance catalog.",
+        "Integrated and synchronized critical data in TD’s Enterprise Metadata Repository (IGC) using bulk and manual approach.",
+        "Facilitated and participated in problem-solving discussions with business and IT teams to help to find solution to existing complex issues.",
+        "Collaborated with other team members in establishing and sharing design and development techniques of the ETL process.",
+        "Achieved effort reduction of 90% by developing metadata process automation tools and were utilized across multiple teams."
+      ],
+      "start": "10/2018",
+      "end": "10/2019"
+    },
+    {
+      "role": "BI/ Business Systems Analyst",
+      "company": "Infosys",
+      "client": "Deutsche Bank",
+      "description": [
+        "Deutsche Bank uses its Enterprise Data Lake for Data analytics and Business Intelligence across multiple domains.",
+        "Implemented validation for data coming from multiple line of businesses using technical documents.",
+        "Collaborated with data stewards on data profiling reports and integrated security-classification before the data gets ingested in the repository.",
+        "Used JIRA and Confluence for various purposes including issue tracking, process tracking, documentation, and knowledge transition.",
+        "Conducted data analysis and developed reports and dashboards using Power BI.",
+        "Integrated custom visuals based on business requirements using Power BI desktop.",
+        "Worked on SQL queries using stored procedures, common table expressions (CTE), temporary table to support Power BI.",
+        "Developed complex calculated measures using Data Expression Language (DAX).",
+        "Embedded Power BI reports on Salesforce portal page and assisted the Team Leader with access of reports and data for individual user using Roles.",
+        "Provided continued maintenance and development of bug fixes for existing and new Power BI Reports."
+      ],
+      "start": "07/2016",
+      "end": "06/2018"
+    },
+    {
+      "role": "Release Manager",
+      "company": "Infosys",
+      "client": "Aetna Inc.",
+      "description": [
+        "Implemented and managed release process for onboarding applications throughout the Software Development Life Cycle.",
+        "Planned the release windows for upcoming releases and coordinated/resolved the conflicts.",
+        "Maintained deployment calendar and communicated the regular status update across teams.",
+        "Coordinated with relevant stakeholders located at various locations for deployment and supported the release process end to end.",
+        "Ensured the project team follows all quality assurance processes.",
+        "Functioned as an escalation point for all risks and issues affecting the deployment plan.",
+        "Identified all development related project dependencies and risks to ensure contingency plans for identified risks."
+      ],
+      "start": "01/2016",
+      "end": "06/2016"
+    },
+    {
+      "role": "Business Systems Analyst",
+      "company": "Infosys",
+      "client": "Aetna Inc.",
+      "description": [
+        "Worked closely with the Enterprise Data Warehouse team to understand repository objects that support the business requirements.",
+        "Performed detailed analysis and created detailed business requirement documents (BRD).",
+        "Gathered & mapped requirements, prioritized requests and created Traceability Matrix.",
+        "Managed post deployment bugs and risks.",
+        "Facilitated agile ceremonies like project backlog management, backlog refinement, release and iteration planning and release retrospectives.",
+        "Conducted gap analysis and impact analysis for changes on business processes and existing technology.",
+        "Prepared complex SQL Queries and Advanced Excel skills for clients to assist in undertaking business intelligence (BI) and operational decisions.",
+        "Communicated monthly/weekly progress, results, and recommendations to client through meetings, phone calls and presentations."
+      ],
+      "start": "12/2013",
+      "end": "12/2015 "
+    }
+  ],
+  "social": [
+    {
+      "service": "linkedin",
+      "url": "https://www.linkedin.com/in/jayshidh"
+    },
+    {
+      "service": "github",
+      "url": "https://github.com/jayshidhp"
+    },
+    {
+      "service": "instagram",
+      "url": "https://www.instagram.com/jayshidh"
+    },
+    {
+      "service": "twitter",
+      "url": "https://twitter.com/jayshidh"
+    }
+  ],
+  "role": "BI, Data, and Business Systems Analyst",
+  "projects": [
+    {
+      "name": "Data Science Capstone Project",
+      "company": "Open source",
+      "description": "Data Science Capstone Project",
+      "link": "https://github.com/jayshidhp/Coursera_Capstone"
+    },
+    {
+      "name": "Gatsby resume",
+      "company": "Open source",
+      "description": "Gatsby resume tailwind is a free starter template with  Netlify CMS implementation. It is easy to customize the design with thanks to tailwind theming capabilities. It uses git as a backend and can be deployed to any static hosting service like Netlify, firebase hosting or Github pages.",
+      "link": "https://github.com/jayshidhp"
+    }
+  ],
+  "fullname": "Jayshidh Patel"
+}
