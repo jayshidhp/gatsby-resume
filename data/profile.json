@@ -27,12 +27,16 @@
           "percent": 93
         },
         {
+          "name": "Data Warehouse",
+          "percent": 89
+        },
+        {
           "name": "Requirement Gathering",
           "percent": 90
         },
         {
           "name": "Project Management",
-          "percent": 92
+          "percent": 90
         },
         {
           "name": "Data Science",
