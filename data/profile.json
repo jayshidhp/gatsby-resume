@@ -114,7 +114,7 @@
       ]
     },
     {
-      "title": "Frameworks",
+      "title": "Web Components",
       "type": "tag",
       "subskills": [
         {
@@ -131,6 +131,9 @@
         },
         {
           "name": "Django"
+        },
+        {
+          "name": "JS"
         }
       ]
     },
