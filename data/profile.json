@@ -11,8 +11,8 @@
       "type": "percent",
       "subskills": [
         {
-          "name": "Business Analysis",
-          "percent": 89
+          "name": "Business Systems Analysis",
+          "percent": 92
         },
         {
           "name": "Data Analytics",
@@ -168,7 +168,7 @@
       ]
     }
   ],
-  "summary": "I am an ambitious IT consultant, Business System Analyst and a Certified Data Science Professional. I help corporations find business solutions and I have experience working in Healthcare and Banking industry. I am passionate about how technology can open new possibilities endlessly and keep inspiring the world. My goal in life is continuous learning and to keep finding those 'ahaan moments' along the way.",
+  "summary": "I am an ambitious IT consultant and a Certified Data Science Professional. I help corporations find business solutions and I have experience working in Healthcare and Banking industry. I am passionate about how technology can open new possibilities endlessly and keep inspiring the world. My goal in life is continuous learning and to keep finding those 'ahaan moments' along the way.",
   "education": [
     {
       "institution": "Gujarat Technological University, India",
